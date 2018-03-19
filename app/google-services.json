@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "773870454924",
+    "firebase_url": "https://coloc-1671e.firebaseio.com",
+    "project_id": "coloc-1671e",
+    "storage_bucket": "coloc-1671e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773870454924:android:808eaafe35c1f35c",
+        "android_client_info": {
+          "package_name": "tn.octave.coloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773870454924-l3scg2am4qeo4in66r9amese15368gus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tn.octave.coloc",
+            "certificate_hash": "3c213c5646e08cfea1e526972ba0dd03b71fdcff"
+          }
+        },
+        {
+          "client_id": "773870454924-jdjkh85dnbhn6l0dflphf7v1pe9095dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcjYC_cODjv5hjbR8pW6cAe8dYHf1bgDA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773870454924-jdjkh85dnbhn6l0dflphf7v1pe9095dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
